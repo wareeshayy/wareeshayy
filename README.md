@@ -57,12 +57,20 @@ Socket-based two-player chess game with networking, sync, and turn logic.
 ## 📈 GitHub Stats
 
 <div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wareeshayy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/wareeshayy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wareeshayy&theme=tokyonight&hide_border=true)](https://github.com/wareeshayy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wareeshayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/wareeshayy)
+
+</div>
+
+<div align="center">
   
-![Wareesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wareeshayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=wareeshayy&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wareeshayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 💻 My Contributions
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=wareeshayy&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
