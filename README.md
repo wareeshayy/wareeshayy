@@ -56,14 +56,15 @@ Socket-based two-player chess game with networking, sync, and turn logic.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wareeshayy&show_icons=true&theme=tokyonight&hide_border=true" alt="Wareesha's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wareeshayy&theme=tokyonight&hide_border=true" alt="Wareesha's GitHub streak" width="48%" />
-</p>
+<div align="center">
+  
+![Wareesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wareeshayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wareeshayy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=wareeshayy&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wareeshayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
