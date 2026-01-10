@@ -3,8 +3,6 @@
 
 ---
 
-
-
 - 🎓 I'm a **Computer Science student at FAST NUCES (Batch 2026)**  
 - 💻 I love building **full-stack apps**, experimenting with **AI & networking**, and solving real-world problems  
 - 🌱 Currently exploring advanced **React**, **FastAPI**  
@@ -15,6 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -58,26 +57,21 @@ Socket-based two-player chess game with networking, sync, and turn logic.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wareeshayy&show_icons=true&theme=tokyonight"
-    alt="Wareesha's GitHub stats"
-  />
-  <br/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=wareeshayy&theme=tokyonight"
-    alt="Wareesha's GitHub streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wareeshayyyyy&show_icons=true&theme=tokyonight" alt="Wareesha's GitHub stats" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wareeshayyyyy&theme=tokyonight" alt="Wareesha's GitHub streak" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wareeshayyyyy)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/wareeshayyyyy)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wareesha-ashraf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wareeshayyyyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:f223441@cfd.nu.edu.pk)
 
 ---
 
-> “Code is poetry when written with purpose.” — Let’s build something beautiful together!
+> "Code is poetry when written with purpose." — Let's build something beautiful together!
