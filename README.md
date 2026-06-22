@@ -25,7 +25,7 @@ class WareeshaAshraf:
     portfolio   = "https://wareeshaportfolio.netlify.app"
 ```
 
-- 🎓 **CS @ FAST NUCES** — graduating June 2026
+- 🎓 **CS @ FAST NUCES** — graduated on June 2026
 - 🤖 Deep into **YOLOv8**, **PyTorch CNNs**, **GANs** (DCGAN, Pix2Pix, CycleGAN) & **LLM fine-tuning**
 - 🔬 Built medical CV pipelines (**Bone Fracture Detection** — DenseNet-121 74.56% acc + YOLOv8)
 - 🌐 Shipped production apps: **MediQuest**, **Connecto**, **3DCraft**, **RESUMIND**, **PixelCraft**, **AI Chess Arena**
@@ -137,7 +137,7 @@ Text-prompt → 3D model pipeline with real-time Three.js browser preview, FastA
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://3-d-craft-ai.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://aquamarine-3dcradtai.netlify.app/)
 [![Code](https://img.shields.io/badge/💻_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wareeshayy/3D_Craft_AI)
 
 </div>
@@ -333,7 +333,7 @@ Intelligent Sudoku solver with arc-consistency checks (AC-3) — **80% faster** 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://wareeshaportfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wareeshayyyyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wareesha-ashraf-17a99827b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wareeshayy)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wareeshaashraf09@gmail.com)
 
