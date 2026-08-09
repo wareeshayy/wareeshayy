@@ -16,7 +16,7 @@
 
 ```python
 class WareeshaAshraf:
-    university  = "FAST NUCES Chiniot  |  BS Computer Science  |  Batch 2026"
+    university  = "FAST NUCES  |  BS Computer Science  |  Batch 2026"
     focus       = ["AI / ML", "Computer Vision", "Generative AI", "Full-Stack Web"]
     currently   = ["Fine-tuning LLMs", "Building CV pipelines", "Shipping React apps"]
     projects    = 17   # end-to-end, production-deployed
