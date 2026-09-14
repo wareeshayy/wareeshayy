@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+AI+pipelines+%7C+Training+CNNs+%7C+Shipping+full-stack+apps;FAST+NUCES+CS+%E2%80%9826+%7C+Open+to+AI+%2F+SWE+Internships)](https://github.com/wareeshayy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+AI+pipelines+%7C+Training+CNNs+%7C+Shipping+full-stack+apps;FAST+NUCES+CS+%E2%80%9826+%7C+Open+to+AI+%2F+SWE+Roles)](https://github.com/wareeshayy)
 
 </div>
 
